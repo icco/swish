@@ -1,3 +1,6 @@
+SWISH NO LONGER WORKS, USE https://github.com/Calyhre/dribbble/releases/tag/v1.0.0.beta1 INSTEAD.
+
+
 = Swish! A Ruby wrapper for the Dribbble API
 
 https://travis-ci.org/jeremyw/swish.png
